@@ -1,0 +1,3 @@
+user: postgres
+pass: 123456
+port: 5432
